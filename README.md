@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somkene12345
-- 👀 I’m interested in windows
-- 🌱 I’m currently learning wordpress
+- 👀 I’m interested in windows and android
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me ...
 
